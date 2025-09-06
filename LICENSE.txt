@@ -1,0 +1,27 @@
+AzWeather – License and Sources
+
+1. Weather Data
+The weather information used in this application is provided by Open Meteo.
+https://open-meteo.com/
+
+2. Location and Map Data
+Location naming and map-based location selection use data from OpenStreetMap and its contributors.
+https://www.openstreetmap.org/copyright
+
+3. Application Updates
+The application checks for updates using the latest version code stored on Firebase.
+- The app compares its own version code with the one from Firebase to detect available updates.
+- Update notes and information are also retrieved from Firebase.
+- The update APK itself is downloaded from GitHub.
+
+The developer is not responsible for any data loss or device issues that may occur during updates.
+
+4. Firebase Usage
+Some application data is stored on Firebase. For detailed information about data privacy, please refer to the Privacy Policy.
+
+5. Application License and Rights
+© 2025 AzWeather. All rights reserved.
+- The application is independently developed and is not open source.
+- Copying, distributing, or sharing the application without permission is prohibited.
+- AzWeather is non-commercial and does not include in-app purchases or advertisements.
+- This license applies both to the in-app version and the APK shared on GitHub.
