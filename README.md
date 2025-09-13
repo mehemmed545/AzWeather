@@ -1,10 +1,3 @@
-<p align="center">
-<!-- Latest release -->
-<img src="https://img.shields.io/github/v/release/<username>/AzWeather?include_prereleases&label=latest%20release" alt="Latest release V2025.05.08">
-<!-- License -->
-<img src="https://img.shields.io/badge/License-Proprietary-blue.svg" alt="License">
-</p>
-
 # AzWeather
 
 AzWeather is a weather application that provides accurate and up-to-date forecasts.
