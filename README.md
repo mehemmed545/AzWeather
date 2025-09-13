@@ -1,6 +1,6 @@
 <p align="center">
 <!-- Latest release -->
-<img src="https://img.shields.io/github/v/release/<username>/AzWeather?include_prereleases&label=latest%20release" alt="Latest release">
+<img src="https://img.shields.io/github/v/release/<username>/AzWeather?include_prereleases&label=latest%20release" alt="Latest release v1.1.4">
 <!-- License -->
 <img src="https://img.shields.io/badge/License-Proprietary-blue.svg" alt="License">
 </p>
